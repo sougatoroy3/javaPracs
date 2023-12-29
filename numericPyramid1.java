@@ -21,6 +21,8 @@ public class numericPyramid1 {
         }
 
          */
+
+        //myLogic
         for(int i=1; i<=n; i++)
         {
             for(int j=i;j<n;j++)

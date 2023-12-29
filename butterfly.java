@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class butterfly {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        int n =sc.nextInt(); // number of butterflies
+        int n =sc.nextInt(); // number of lines
 
         //upper half
         for(int i=1; i<=n; i++) {
