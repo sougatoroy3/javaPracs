@@ -1,0 +1,69 @@
+Core Subjects'	Syllabus
+Programming & Data Structures	
+
+    Data Types
+    Operator
+    Control Flow Statements
+    Storage Class
+    Function
+    Recursion
+    Pointers
+    Strings
+    Arrays
+    Linked List
+    Stack
+    Queue
+    Trees
+    Graphs
+    Hashing
+
+Algorithm	
+
+    Searching, Sorting
+    Asymptotic Notations
+    Worst-case time and space complexity
+    Greedy Technique
+    Dynamic Programming
+    Divide & Conquer
+    Graph traversals
+    Minimum spanning trees
+    Shortest paths
+
+Operating System	
+
+    System calls
+    processes
+    Threads
+    Inter‐process communication
+    Concurrency, Synchronization
+    Deadlock
+    CPU and I/O Scheduling
+    Memory management
+    Virtual memory
+    File systems
+
+Database Management System(DBMS)	
+
+    ER-Model
+    Relational Algebra
+    Tuple calculus
+    SQL
+    Integrity constraints
+    Normal Form
+    File Organization
+    Indexing (e.g., B and B+ Trees)
+    Transactions and Concurrency Control
+
+Computer Networks	
+
+    OSI, TCP/IP Protocol Stacks
+    Basics of the Packet, Circuit, Virtual Circuit Switching
+    Data Link Layer: Framing, Error Detection, Medium Access Control, Ethernet Bridging
+    Routing Protocols: Shortest Path, Flooding, Distance Vector, and Link State Routing
+    Fragmentation
+    IP Addressing
+    IPv4
+    CIDR Notation
+    Basics of IP Support Protocols (ARP, DHCP, ICMP), Network Address Translation (NAT)
+    Transport Layer: Flow Control and Congestion Control, UDP, TCP, Sockets
+    Application Layer Protocols: DNS, SMTP, HTTP, FTP, Email
