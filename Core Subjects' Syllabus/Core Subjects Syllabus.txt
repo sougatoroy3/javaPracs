@@ -1,4 +1,4 @@
-Core Subjects'	Syllabus
+Core Subjects' Syllabus
 Programming & Data Structures	
 
     Data Types
