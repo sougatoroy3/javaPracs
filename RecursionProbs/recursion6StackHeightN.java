@@ -1,4 +1,4 @@
-//package RecursionProbs;
+package RecursionProbs;
 
 public class recursion6StackHeightN {
     public static int printPower(int x, int n) {

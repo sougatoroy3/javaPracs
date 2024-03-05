@@ -1,3 +1,5 @@
+package RecursionProbs;
+
 public class recursion6StackHeightLogN {
     public static int printPower(int x, int n) {
         if(n == 0) {

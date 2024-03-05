@@ -1,5 +1,7 @@
+package RecursionProbs;
+
 // O(2^n - 1)=O(2^n)
-public class towerOfHanoi 
+public class towerOfHanoiProblem 
 {
     public static void main(String[] args) {
         int n = 3; // Number of disks

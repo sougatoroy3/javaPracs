@@ -1,4 +1,4 @@
-//package RecursionProbs;
+package RecursionProbs;
 
 public class recursion4Factorial {
     public static void printFactorial(int n, int fac)

@@ -1,7 +1,7 @@
-import java.util.Scanner;
+
 
 public class palindromeCheckGFG {
-    public static int palinArray(int[] a, int n)
+    public static void palinArray(int[] a, int n)
     {
         //add code here.
         int[] aCopy;

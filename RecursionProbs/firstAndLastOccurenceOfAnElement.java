@@ -1,3 +1,5 @@
+package RecursionProbs;
+
 public class firstAndLastOccurenceOfAnElement 
 {
     public static void main(String[] args) {
