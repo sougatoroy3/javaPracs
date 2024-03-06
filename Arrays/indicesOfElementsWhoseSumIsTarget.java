@@ -1,6 +1,8 @@
 /**
  * indicesOfElementsWhoseSumIsTarget
  */
+package Arrays;
+
 public class indicesOfElementsWhoseSumIsTarget {
 
     public static void main(String[] args) 

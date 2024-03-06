@@ -1,9 +1,11 @@
-import java.util.*;
+package Arrays;
 
+import java.util.*;
 
 public class transposeOfAMatrix {
    public static void main(String args[]) {
-      Scanner sc = new Scanner(System.in);
+      @SuppressWarnings("resource")
+    Scanner sc = new Scanner(System.in);
       int n = sc.nextInt();
       int m = sc.nextInt();
 
